@@ -23,16 +23,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
 		</dependency>
-<<<<<<< HEAD
-		<!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-config-client -->
-		<dependency>
-			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-config-client</artifactId>
-			<version>2.1.2.RELEASE</version>
-		</dependency>
-
-=======
->>>>>>> 676a8e558d618ac65c4f8d4c9a9b26079bf04575
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
